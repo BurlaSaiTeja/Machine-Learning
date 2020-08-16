@@ -1,2 +1,1 @@
-# Machine-Learning
-ML Algorithms
+# Machine Learning Algorithms
